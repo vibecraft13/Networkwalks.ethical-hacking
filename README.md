@@ -10,6 +10,7 @@
 ## Tools Used
 Kali Linux | Nmap | Python | Bash | theHarvester | Sherlock | SpiderFoot
 
+
 ## What I Learned
 - How attackers find targets
 - Why open ports are dangerous
@@ -17,3 +18,4 @@ Kali Linux | Nmap | Python | Bash | theHarvester | Sherlock | SpiderFoot
 
 ## Disclaimer
 This lab was done in a controlled environment for learning purposes only.
+![My Lab Screenshot](lab-screenshot.png)
